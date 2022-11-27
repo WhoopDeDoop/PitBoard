@@ -1,0 +1,14 @@
+{
+  "name": "pitboard",
+  "version": "0.0.3",
+  "description": "Pit Display for First Robotics",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Ashton B. Poindexter",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^21.3.1"
+  }
+}
