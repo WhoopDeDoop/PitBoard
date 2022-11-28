@@ -29,7 +29,7 @@ app.whenReady().then(() => {
 
 })
 
-let apiToken = "QmJnqjyUwgaxjmEnnfUMabdvdlPgtz4tOJKm6xgXafc4djvQJBnqMilgXCM0y5fE"
+let apiToken = ""
 
 // IPC Handlers //
 ipcMain.on("ping", (events, args) => {
