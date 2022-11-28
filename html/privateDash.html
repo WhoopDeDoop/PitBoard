@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <head>
-    <link rel="stylesheet/less" type="text/css" href="style/shared.less">
-    <link rel="stylesheet/less" type="text/css" href="style/dash.less">
-    <script src="js/less.js"></script>
-    <script src="js/app.js"></script>
-    <script src="js/dash.js"></script>
+    <link rel="stylesheet/less" type="text/css" href="../style/shared.less">
+    <link rel="stylesheet/less" type="text/css" href="../style/dash.less">
+    <script src="../js/jquery-3.6.1.min.js"></script>
+    <script src="../js/less.js"></script>
+    <script src="../js/dash.js"></script>
     <title>Pit Dashboard</title>
 </head>
 <html>
@@ -18,7 +18,7 @@
     <div class="currentTeamContainer standardUibox">
         <div class="container">
             <div>
-                <p class="titleText">- - - -</p>
+                <p id="location" class="titleText">- - - -</p>
                 <p class="subtext nonSelectable">Location</p> 
             </div>
             <div>
@@ -26,7 +26,7 @@
                 <p class="subtext nonSelectable">Developed by Slice</p> 
             </div>
             <div>
-                <p class="titleText">- - - -</p>
+                <p id="currentTeam" class="titleText">- - - -</p>
                 <p class="subtext nonSelectable">Current Team</p> 
             </div>
         </div>
