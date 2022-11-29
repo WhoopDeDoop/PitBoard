@@ -1,7 +1,7 @@
 # PitBoard
 PitBoard is a Pit Display maintained by Slice (8738), intended to keep the pits a little less chaotic and organized. This dashboard it primarily focuses on "in the moment" display of information, better keeping teams on time and in the know of what is going on in the field.  While still in development, all major features/goals will be listed, as well as how this will be achieved. PitBoard uses a few libraries and frameworks to work, which will all be listed below.
 
---- <br />
+---
 
 ### Planned Features
 Features planned to be implemented by first major release, watch the GitHub to see progress!
