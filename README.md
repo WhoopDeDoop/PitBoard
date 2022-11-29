@@ -5,7 +5,8 @@ PitBoard is a Pit Display maintained by Slice (8738), intended to keep the pits 
 ---
 
 <br>
-### Planned Features
+
+### Planned Features  
 Features planned to be implemented by first major release, watch the GitHub to see progress!
 
 #### Public Display
