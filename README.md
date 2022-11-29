@@ -1,7 +1,7 @@
 # PitBoard
 PitBoard is a Pit Display maintained by Slice (8738), intended to keep the pits a little less chaotic and organized. This dashboard it primarily focuses on "in the moment" display of information, better keeping teams on time and in the know of what is going on in the field.  While still in development, all major features/goals will be listed, as well as how this will be achieved. PitBoard uses a few libraries and frameworks to work, which will all be listed below.
 
----
+---  
 
 ### Planned Features
 Features planned to be implemented by first major release, watch the GitHub to see progress!
@@ -24,17 +24,17 @@ PitBoard is intended to be used with ease, making it less intrusive of time and 
 Below is a list containing all libraries and frameworks we are using, and any other future plans for implementation.
 
 #### Electron
-[GitHub](https://github.com/electron/electron)
-[Documentation](https://www.electronjs.org/docs/latest/)
-[Stack Overflow](https://stackoverflow.com/questions/tagged/electron)
+[GitHub](https://github.com/electron/electron)  
+[Documentation](https://www.electronjs.org/docs/latest/)  
+[Stack Overflow](https://stackoverflow.com/questions/tagged/electron)  
 
 #### LessCSS
-[GitHub](https://github.com/less/less.js)
-[Documentation Repo (GitHub)](https://github.com/less/less-docs)
-[In-Depth Guide](https://lesscss.org/features/)
-[Stack Overflow](https://stackoverflow.com/questions/tagged/less)
+[GitHub](https://github.com/less/less.js)  
+[Documentation Repo (GitHub)](https://github.com/less/less-docs)  
+[In-Depth Guide](https://lesscss.org/features/)  
+[Stack Overflow](https://stackoverflow.com/questions/tagged/less)  
 
 #### JQuery
-[GitHub](https://github.com/jquery/jquery)
-[Documentation](https://api.jquery.com/)
-[Stack Overflow](https://stackoverflow.com/questions/tagged/jquery)
+[GitHub](https://github.com/jquery/jquery) 
+[Documentation](https://api.jquery.com/) 
+[Stack Overflow](https://stackoverflow.com/questions/tagged/jquery)  
