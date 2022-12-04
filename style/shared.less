@@ -32,3 +32,34 @@ body {
     background: rgba(20,20,20,1);
     box-shadow: 0 0 16px -6px;
 }
+
+.tableContainer {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 80%;
+    & > .header {
+        position: absolute;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        width: 90%;
+        height: 40px;
+        & > p {
+            position: relative;
+            color: white;
+            text-align: center;
+        }
+        &::after {
+            content: "";
+            position: absolute;
+            display: block;
+            width: 100%;
+            height: 1px;
+            background: white;
+            margin: 24px 0 0;
+        }
+    }
+}
